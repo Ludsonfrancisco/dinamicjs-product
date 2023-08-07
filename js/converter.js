@@ -155,7 +155,7 @@ document.getElementById('button').addEventListener('click', () => {
                     titleGpon.innerHTML = 'GPON'
                     const tGpon = document.getElementById("gpon-titulo")
                     tGpon.append(titleGpon)
-
+                    
 
 
 
