@@ -151,10 +151,10 @@ document.getElementById('button').addEventListener('click', () => {
                     // tProducao.appendChild(titleProducao)
 
 
-                    const titleGpon = document.createElement('span')
-                    titleGpon.innerHTML = 'GPON'
-                    const tGpon = document.getElementById("gpon-titulo")
-                    tGpon.append(titleGpon)
+                    // const titleGpon = document.createElement('span')
+                    // titleGpon.innerHTML = 'GPON'
+                    // const tGpon = document.getElementById("gpon-titulo")
+                    // tGpon.append(titleGpon)
                     
 
 
